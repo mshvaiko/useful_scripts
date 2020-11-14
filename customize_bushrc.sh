@@ -28,4 +28,6 @@ mkproject() {
 	fi
 }
 
+#aliases
+alias git-log="git log --oneline --decorate -10"
 
